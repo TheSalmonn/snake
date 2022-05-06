@@ -1,0 +1,13 @@
+canvas {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#layer0 {
+    background-color: black;
+    outline-width: 5px;
+    outline-color: rgba(0, 0, 0, 0);
+    outline-style: solid;
+}
